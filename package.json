@@ -1,0 +1,20 @@
+{
+  "name": "shopping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"lite-server"
+  },
+  "author": "pranali",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.3",
+    "angular-ui-bootstrap": "^2.5.0",
+    "angular-ui-router": "^0.4.2"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
